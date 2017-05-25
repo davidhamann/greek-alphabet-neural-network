@@ -99,3 +99,11 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# data
+
+label_data.npy
+pixel_data.npy
+theta1.npy
+theta2.npy
+notes.txt
